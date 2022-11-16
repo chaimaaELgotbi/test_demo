@@ -4,4 +4,9 @@ This is a new ligne
  
 Adding more changes on this file
 
+<<<<<<< HEAD
 Testing the rebase cmd
+=======
+
+There is more extra lignes 
+>>>>>>> bdbfeb9 (Adjusted something new on demo file)
