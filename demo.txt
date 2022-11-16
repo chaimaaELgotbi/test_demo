@@ -4,4 +4,4 @@ This is a new ligne
  
 Adding more changes on this file
 
-Testing th rebase cmd
+Testing the rebase cmd
